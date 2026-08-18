@@ -1,15 +1,15 @@
-# Bhu-Drishti 🌏
+# Bhu-Chakshu 🌏
 
 --Satellite vision for national land intelligence.--
 
                    "Satellite vision for national land intelligence — SAM-powered segmentation for agriculture, borders, and disaster response."
-Bhu-Drishti is an open-source satellite imagery segmentation tool 
+Bhu-Chakshu is an open-source satellite imagery segmentation tool 
 built on Meta's Segment Anything Model (SAM). It identifies field 
 boundaries, land-cover regions, and change patterns from free 
 satellite data (Bhuvan, Sentinel) — a foundation for agriculture 
 monitoring, disaster assessment, and land intelligence at scale.
 
-# Bhu-Drishti 🛰️
+# Bhu-Chakshu 🛰️
 
 > Satellite vision for national land intelligence
 
