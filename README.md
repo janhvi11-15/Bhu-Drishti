@@ -28,7 +28,8 @@ fields, water bodies, land-change zones]
 ## Tech stack
 Python · SAM/SAM2 · PyTorch · Bhuvan/Sentinel data
 
-<img width="1920" height="1080" alt="Tech basket" src="https://github.com/user-attachments/assets/d8549c2f-b2fc-4491-8cbd-27f1b954b8e7" />
+<img width="1920" height="1080" alt="Tech basket" src="https://github.com/user-attachments/assets/52c07865-038f-4557-b77c-22c72388f8a0" />
+
 
 
 ## Roadmap
