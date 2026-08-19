@@ -64,7 +64,7 @@ bhuchakshu/
 ## How to run
 
 ```bash
-git clone https://github.com/janhvisharma/bhuchakshu.git
+git clone https://github.com/janhvi11-15/Bhu_Chakshu
 cd bhuchakshu
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
