@@ -1,0 +1,9 @@
+# Llm foundation models [Large language models]
+LLM foundation/
+|--> Week0 : HuggingFace-NLP-intro-notes.md 
+|     |--> NLP notes.md
+|     |--> LLM notes.txt  
+|     |--> Transformer.setup/colab
+|---> Week1 : Importing transformer code
+|---> README.md
+
