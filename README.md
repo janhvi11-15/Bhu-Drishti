@@ -5,8 +5,9 @@
 BhuChakshu (भू-चक्षु — "the Earth's eye") is an open-source satellite imagery segmentation tool built on Meta's Segment Anything Model (SAM). It identifies field boundaries, land-cover regions, and change patterns from free satellite data — a foundation for agriculture monitoring, disaster assessment, and land intelligence.
 
 ---
-<img width="1584" height="396" alt="2" src="https://github.com/user-attachments/assets/f037baae-c198-444b-b33a-2ced32010dbd" />
-
+<a target="_blank" href="https://github.com/janhvi11-15/Bhu_Chakshu" >
+         <img width="1584" height="396" alt="2" src="https://github.com/user-attachments/assets/f037baae-c198-444b-b33a-2ced32010dbd" />
+</a><br>
 
 ## The problem Statement
 
